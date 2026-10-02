@@ -20,6 +20,20 @@ An immersive 3D first-person web experience simulating an underground hidden mar
 
 ---
 
+## 🎬 Demo
+
+[![Watch the Deepvault Syndicate Demo](https://img.youtube.com/vi/IfKlVm9ghrk/maxresdefault.jpg)](https://youtu.be/IfKlVm9ghrk)
+
+▶️ [Watch the full demo on YouTube](https://youtu.be/IfKlVm9ghrk)
+
+---
+
+## 📸 Screenshots
+
+<table> <tr> <td width="50%"> <img src="./deepvault-1.png" alt="Deepvault Screenshot 1" width="100%"> </td> <td width="50%"> <img src="./deepvault-2.png" alt="Deepvault Screenshot 2" width="100%"> </td> </tr> <tr> <td width="50%"> <img src="./deepvault-3.png" alt="Deepvault Screenshot 3" width="100%"> </td> <td width="50%"> <img src="./deepvault-4.png" alt="Deepvault Screenshot 4" width="100%"> </td> </tr> <tr> <td width="50%"> <img src="./deepvault-5.png" alt="Deepvault Screenshot 5" width="100%"> </td> <td width="50%"> <img src="./deepvault-6.png" alt="Deepvault Screenshot 6" width="100%"> </td> </tr> <tr> <td width="50%"> <img src="./deepvault-7.png" alt="Deepvault Screenshot 7" width="100%"> </td> <td width="50%"> <img src="./deepvault-8.png" alt="Deepvault Screenshot 8" width="100%"> </td> </tr> </table>
+
+---
+
 ## 📁 Project Structure
 
 ```
